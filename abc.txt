@@ -5,3 +5,5 @@ A dummy line added
 Another dummy line is added
 
 This is another dummy line
+
+New file added
